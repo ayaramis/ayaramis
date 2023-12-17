@@ -1,19 +1,10 @@
 <img src="https://github.com/ayaramis/ayaramis/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png?raw=true">
 
-<h1 align="center">Hi, I'm Adnan Yaramis</h1>
+<h1 align="center">Hi, 👋 I'm Adnan Yaramis</h1>
 
+<h1 align="center">Data Scientist - DL/ML Engineer</h1>
 
-
-
-
-
-
-### Hi there 👋
-
-<!--
-**ayaramis/ayaramis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<p align="hustify">I'm a father, son, husband, volunteer, Data Scientist-ML/DL Engineer. I'm 38 years old, I have a strong background in biotechnology and microbiology wet lab work, combined with expertise in genomic sequence analysis. I excel at translating complex biological data into actionable insights, using programming languages like Python and R. I'm passionate about advancing science through data-driven approaches and collaborating on innovative projects in the biotech and genomics space. Let's connect to explore how I can contribute to your team.</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
