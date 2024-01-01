@@ -1,4 +1,4 @@
-<img src=>
+
 
 <h1 align="center">Hi, 👋 I'm Adnan Yaramis</h1>
 
