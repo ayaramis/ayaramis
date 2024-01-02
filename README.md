@@ -6,7 +6,6 @@
 
 <p align="hustify">I'm a father, son, husband, volunteer, Data Scientist-ML/DL Engineer. I'm 38 years old, I have a strong background in biotechnology and microbiology wet lab work, combined with expertise in genomic sequence analysis. I excel at translating complex data into actionable insights, using programming languages like Python and R and visualise them using Tableau and Power BI. I'm passionate about advancing science through data-driven approaches and collaborating on innovative projects. Let's connect to explore how I can contribute to your team.</p>
 
-- 🔭 I’m currently working on pwC (Switzerland) internship.
 - 🌱 I’m currently learning AI for Scientific Research.
 - 💬 Ask me about Python, R, ML/DL and applications.
 - 📫 How to reach me: adnanyaramis@gmail.com
