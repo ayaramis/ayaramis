@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, 👋 I'm Adnan Yaramis</h1>
+<h1 align="center">Hi, 👋 
 
 <h1 align="center">Data Scientist - ML/DL Engineer</h1>
 
